@@ -2,5 +2,5 @@
 
 import requests
 
-r=requests.get('https://bell.ca')
+r=requests.get('https://outlook.office.com')
 print r.text
